@@ -1,0 +1,983 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<company>
+  <version>4.0.7</version>
+  <type>1</type>
+  <company-timezone>Australia/Perth</company-timezone>
+  <creation-time>1632046952326</creation-time>
+  <company-tax-rate>0.0</company-tax-rate>
+  <company-calendar-id>0</company-calendar-id>
+  <task-field-list/>
+  <resource-field-list/>
+  <client-field-list/>
+  <calendar-list>
+    <calendar>
+      <calendar-type>standard</calendar-type>
+      <calendar-name>Standard</calendar-name>
+      <calendar-id>0</calendar-id>
+      <week-pattern-list>
+        <pattern day-in-week="1">
+          <period-in-day>
+            <period-type>false</period-type>
+            <period-start-date>0</period-start-date>
+            <period-end-date>86400000</period-end-date>
+          </period-in-day>
+        </pattern>
+        <pattern day-in-week="2">
+          <period-in-day>
+            <period-type>false</period-type>
+            <period-start-date>0</period-start-date>
+            <period-end-date>28800000</period-end-date>
+          </period-in-day>
+          <period-in-day>
+            <period-type>true</period-type>
+            <period-start-date>28800000</period-start-date>
+            <period-end-date>43200000</period-end-date>
+          </period-in-day>
+          <period-in-day>
+            <period-type>false</period-type>
+            <period-start-date>43200000</period-start-date>
+            <period-end-date>46800000</period-end-date>
+          </period-in-day>
+          <period-in-day>
+            <period-type>true</period-type>
+            <period-start-date>46800000</period-start-date>
+            <period-end-date>61200000</period-end-date>
+          </period-in-day>
+          <period-in-day>
+            <period-type>false</period-type>
+            <period-start-date>61200000</period-start-date>
+            <period-end-date>86400000</period-end-date>
+          </period-in-day>
+        </pattern>
+        <pattern day-in-week="3">
+          <period-in-day>
+            <period-type>false</period-type>
+            <period-start-date>0</period-start-date>
+            <period-end-date>28800000</period-end-date>
+          </period-in-day>
+          <period-in-day>
+            <period-type>true</period-type>
+            <period-start-date>28800000</period-start-date>
+            <period-end-date>43200000</period-end-date>
+          </period-in-day>
+          <period-in-day>
+            <period-type>false</period-type>
+            <period-start-date>43200000</period-start-date>
+            <period-end-date>46800000</period-end-date>
+          </period-in-day>
+          <period-in-day>
+            <period-type>true</period-type>
+            <period-start-date>46800000</period-start-date>
+            <period-end-date>61200000</period-end-date>
+          </period-in-day>
+          <period-in-day>
+            <period-type>false</period-type>
+            <period-start-date>61200000</period-start-date>
+            <period-end-date>86400000</period-end-date>
+          </period-in-day>
+        </pattern>
+        <pattern day-in-week="4">
+          <period-in-day>
+            <period-type>false</period-type>
+            <period-start-date>0</period-start-date>
+            <period-end-date>28800000</period-end-date>
+          </period-in-day>
+          <period-in-day>
+            <period-type>true</period-type>
+            <period-start-date>28800000</period-start-date>
+            <period-end-date>43200000</period-end-date>
+          </period-in-day>
+          <period-in-day>
+            <period-type>false</period-type>
+            <period-start-date>43200000</period-start-date>
+            <period-end-date>46800000</period-end-date>
+          </period-in-day>
+          <period-in-day>
+            <period-type>true</period-type>
+            <period-start-date>46800000</period-start-date>
+            <period-end-date>61200000</period-end-date>
+          </period-in-day>
+          <period-in-day>
+            <period-type>false</period-type>
+            <period-start-date>61200000</period-start-date>
+            <period-end-date>86400000</period-end-date>
+          </period-in-day>
+        </pattern>
+        <pattern day-in-week="5">
+          <period-in-day>
+            <period-type>false</period-type>
+            <period-start-date>0</period-start-date>
+            <period-end-date>28800000</period-end-date>
+          </period-in-day>
+          <period-in-day>
+            <period-type>true</period-type>
+            <period-start-date>28800000</period-start-date>
+            <period-end-date>43200000</period-end-date>
+          </period-in-day>
+          <period-in-day>
+            <period-type>false</period-type>
+            <period-start-date>43200000</period-start-date>
+            <period-end-date>46800000</period-end-date>
+          </period-in-day>
+          <period-in-day>
+            <period-type>true</period-type>
+            <period-start-date>46800000</period-start-date>
+            <period-end-date>61200000</period-end-date>
+          </period-in-day>
+          <period-in-day>
+            <period-type>false</period-type>
+            <period-start-date>61200000</period-start-date>
+            <period-end-date>86400000</period-end-date>
+          </period-in-day>
+        </pattern>
+        <pattern day-in-week="6">
+          <period-in-day>
+            <period-type>false</period-type>
+            <period-start-date>0</period-start-date>
+            <period-end-date>28800000</period-end-date>
+          </period-in-day>
+          <period-in-day>
+            <period-type>true</period-type>
+            <period-start-date>28800000</period-start-date>
+            <period-end-date>43200000</period-end-date>
+          </period-in-day>
+          <period-in-day>
+            <period-type>false</period-type>
+            <period-start-date>43200000</period-start-date>
+            <period-end-date>46800000</period-end-date>
+          </period-in-day>
+          <period-in-day>
+            <period-type>true</period-type>
+            <period-start-date>46800000</period-start-date>
+            <period-end-date>61200000</period-end-date>
+          </period-in-day>
+          <period-in-day>
+            <period-type>false</period-type>
+            <period-start-date>61200000</period-start-date>
+            <period-end-date>86400000</period-end-date>
+          </period-in-day>
+        </pattern>
+        <pattern day-in-week="7">
+          <period-in-day>
+            <period-type>false</period-type>
+            <period-start-date>0</period-start-date>
+            <period-end-date>86400000</period-end-date>
+          </period-in-day>
+        </pattern>
+      </week-pattern-list>
+      <special-pattern-list/>
+    </calendar>
+    <calendar>
+      <calendar-type>24-hours</calendar-type>
+      <calendar-name>24-hours</calendar-name>
+      <calendar-id>1</calendar-id>
+      <week-pattern-list>
+        <pattern day-in-week="1">
+          <period-in-day>
+            <period-type>true</period-type>
+            <period-start-date>0</period-start-date>
+            <period-end-date>86400000</period-end-date>
+          </period-in-day>
+        </pattern>
+        <pattern day-in-week="2">
+          <period-in-day>
+            <period-type>true</period-type>
+            <period-start-date>0</period-start-date>
+            <period-end-date>86400000</period-end-date>
+          </period-in-day>
+        </pattern>
+        <pattern day-in-week="3">
+          <period-in-day>
+            <period-type>true</period-type>
+            <period-start-date>0</period-start-date>
+            <period-end-date>86400000</period-end-date>
+          </period-in-day>
+        </pattern>
+        <pattern day-in-week="4">
+          <period-in-day>
+            <period-type>true</period-type>
+            <period-start-date>0</period-start-date>
+            <period-end-date>86400000</period-end-date>
+          </period-in-day>
+        </pattern>
+        <pattern day-in-week="5">
+          <period-in-day>
+            <period-type>true</period-type>
+            <period-start-date>0</period-start-date>
+            <period-end-date>86400000</period-end-date>
+          </period-in-day>
+        </pattern>
+        <pattern day-in-week="6">
+          <period-in-day>
+            <period-type>true</period-type>
+            <period-start-date>0</period-start-date>
+            <period-end-date>86400000</period-end-date>
+          </period-in-day>
+        </pattern>
+        <pattern day-in-week="7">
+          <period-in-day>
+            <period-type>true</period-type>
+            <period-start-date>0</period-start-date>
+            <period-end-date>86400000</period-end-date>
+          </period-in-day>
+        </pattern>
+      </week-pattern-list>
+      <special-pattern-list/>
+    </calendar>
+  </calendar-list>
+  <resource-list>
+    <human-resource-list>
+      <resource>
+        <resource-id>1</resource-id>
+        <resource-name>Client</resource-name>
+        <rate-list>
+          <rate>
+            <rate-id>11</rate-id>
+            <rate-name>Rate 1</rate-name>
+            <rate-std-rate>0.0</rate-std-rate>
+            <rate-ovt-rate>0.0</rate-ovt-rate>
+          </rate>
+        </rate-list>
+        <default-rate>11</default-rate>
+        <resource-max-unit>1.0</resource-max-unit>
+        <resource-type>h</resource-type>
+      </resource>
+      <resource>
+        <resource-id>2</resource-id>
+        <resource-name>Project Manager</resource-name>
+        <rate-list>
+          <rate>
+            <rate-id>12</rate-id>
+            <rate-name>Rate 1</rate-name>
+            <rate-std-rate>0.0</rate-std-rate>
+            <rate-ovt-rate>0.0</rate-ovt-rate>
+          </rate>
+        </rate-list>
+        <default-rate>12</default-rate>
+        <resource-max-unit>1.0</resource-max-unit>
+        <resource-type>h</resource-type>
+      </resource>
+      <resource>
+        <resource-id>3</resource-id>
+        <resource-name>Programmer 1</resource-name>
+        <rate-list>
+          <rate>
+            <rate-id>13</rate-id>
+            <rate-name>Rate 1</rate-name>
+            <rate-std-rate>0.0</rate-std-rate>
+            <rate-ovt-rate>0.0</rate-ovt-rate>
+          </rate>
+        </rate-list>
+        <default-rate>13</default-rate>
+        <resource-max-unit>1.0</resource-max-unit>
+        <resource-type>h</resource-type>
+      </resource>
+      <resource>
+        <resource-id>4</resource-id>
+        <resource-name>Programmer 2</resource-name>
+        <rate-list>
+          <rate>
+            <rate-id>14</rate-id>
+            <rate-name>Rate 1</rate-name>
+            <rate-std-rate>0.0</rate-std-rate>
+            <rate-ovt-rate>0.0</rate-ovt-rate>
+          </rate>
+        </rate-list>
+        <default-rate>14</default-rate>
+        <resource-max-unit>1.0</resource-max-unit>
+        <resource-type>h</resource-type>
+      </resource>
+      <resource>
+        <resource-id>5</resource-id>
+        <resource-name>Documentor</resource-name>
+        <rate-list>
+          <rate>
+            <rate-id>15</rate-id>
+            <rate-name>Rate 1</rate-name>
+            <rate-std-rate>0.0</rate-std-rate>
+            <rate-ovt-rate>0.0</rate-ovt-rate>
+          </rate>
+        </rate-list>
+        <default-rate>15</default-rate>
+        <resource-max-unit>1.0</resource-max-unit>
+        <resource-type>h</resource-type>
+      </resource>
+      <resource>
+        <resource-id>6</resource-id>
+        <resource-name>Desktop Computer 1</resource-name>
+        <rate-list>
+          <rate>
+            <rate-id>16</rate-id>
+            <rate-name>Rate 1</rate-name>
+            <rate-std-rate>0.0</rate-std-rate>
+            <rate-ovt-rate>0.0</rate-ovt-rate>
+          </rate>
+        </rate-list>
+        <default-rate>16</default-rate>
+        <resource-max-unit>1.0</resource-max-unit>
+        <resource-type>h</resource-type>
+      </resource>
+      <resource>
+        <resource-id>7</resource-id>
+        <resource-name>Desktop Computer 2</resource-name>
+        <rate-list>
+          <rate>
+            <rate-id>17</rate-id>
+            <rate-name>Rate 1</rate-name>
+            <rate-std-rate>0.0</rate-std-rate>
+            <rate-ovt-rate>0.0</rate-ovt-rate>
+          </rate>
+        </rate-list>
+        <default-rate>17</default-rate>
+        <resource-max-unit>1.0</resource-max-unit>
+        <resource-type>h</resource-type>
+      </resource>
+      <resource>
+        <resource-id>8</resource-id>
+        <resource-name>Desktop Computer 3</resource-name>
+        <rate-list>
+          <rate>
+            <rate-id>18</rate-id>
+            <rate-name>Rate 1</rate-name>
+            <rate-std-rate>0.0</rate-std-rate>
+            <rate-ovt-rate>0.0</rate-ovt-rate>
+          </rate>
+        </rate-list>
+        <default-rate>18</default-rate>
+        <resource-max-unit>1.0</resource-max-unit>
+        <resource-type>h</resource-type>
+      </resource>
+      <resource>
+        <resource-id>9</resource-id>
+        <resource-name>Laptop</resource-name>
+        <rate-list>
+          <rate>
+            <rate-id>19</rate-id>
+            <rate-name>Rate 1</rate-name>
+            <rate-std-rate>0.0</rate-std-rate>
+            <rate-ovt-rate>0.0</rate-ovt-rate>
+          </rate>
+        </rate-list>
+        <default-rate>19</default-rate>
+        <resource-max-unit>1.0</resource-max-unit>
+        <resource-type>h</resource-type>
+      </resource>
+      <resource>
+        <resource-id>10</resource-id>
+        <resource-name>Printer</resource-name>
+        <rate-list>
+          <rate>
+            <rate-id>20</rate-id>
+            <rate-name>Rate 1</rate-name>
+            <rate-std-rate>0.0</rate-std-rate>
+            <rate-ovt-rate>0.0</rate-ovt-rate>
+          </rate>
+        </rate-list>
+        <default-rate>20</default-rate>
+        <resource-max-unit>1.0</resource-max-unit>
+        <resource-type>h</resource-type>
+      </resource>
+    </human-resource-list>
+    <material-resource-list/>
+    <cost-resource-list/>
+  </resource-list>
+  <client-list/>
+  <task>
+    <project>true</project>
+    <pattern>
+      <period-in-day>
+        <period-type>false</period-type>
+        <period-start-date>0</period-start-date>
+        <period-end-date>28800000</period-end-date>
+      </period-in-day>
+      <period-in-day>
+        <period-type>true</period-type>
+        <period-start-date>28800000</period-start-date>
+        <period-end-date>43200000</period-end-date>
+      </period-in-day>
+      <period-in-day>
+        <period-type>false</period-type>
+        <period-start-date>43200000</period-start-date>
+        <period-end-date>86400000</period-end-date>
+      </period-in-day>
+    </pattern>
+    <default-forced-working>false</default-forced-working>
+    <default-work-driven>false</default-work-driven>
+    <default-fixed-units>true</default-fixed-units>
+    <task-status>In progress</task-status>
+    <project-manager/>
+    <project-code/>
+    <project-budget>0.0</project-budget>
+    <project-description/>
+    <project-assumptions/>
+    <project-constraints/>
+    <project-baseline-list/>
+    <project-critical-slack-limit>1</project-critical-slack-limit>
+    <project-critical-slack-unit>d</project-critical-slack-unit>
+    <units-duration>
+      <default-unit>d</default-unit>
+      <default-work-unit>h</default-work-unit>
+      <y>6912000000</y>
+      <mo>576000000</mo>
+      <w>144000000</w>
+      <d>28800000</d>
+      <h>3600000</h>
+      <m>60000</m>
+    </units-duration>
+    <task-name>DVD Search App</task-name>
+    <task-id>0</task-id>
+    <expanded-gantt>true</expanded-gantt>
+    <task-currency-unit>$</task-currency-unit>
+    <task-constraint>
+      <snet>20-09-2021, 08:00:00</snet>
+    </task-constraint>
+    <task-start-date>20-09-2021, 10:00:00</task-start-date>
+    <task-end-date>04-10-2021, 15:00:00</task-end-date>
+    <task-completion-date>20-09-2021, 16:47:35</task-completion-date>
+    <task-duration>302400000</task-duration>
+    <task-percent-complete>6.896551658079007</task-percent-complete>
+    <task-work-percent-complete>3.225806451612903</task-work-percent-complete>
+    <task-list>
+      <task>
+        <task-name>Requirements</task-name>
+        <task-id>1</task-id>
+        <expanded-gantt>true</expanded-gantt>
+        <task-start-date>20-09-2021, 10:00:00</task-start-date>
+        <task-end-date>20-09-2021, 17:00:00</task-end-date>
+        <task-completion-date>20-09-2021, 17:00:00</task-completion-date>
+        <task-duration>21600000</task-duration>
+        <task-percent-complete>100.0</task-percent-complete>
+        <task-work-percent-complete>100.0</task-work-percent-complete>
+        <task-list>
+          <task>
+            <task-name>Meet with client</task-name>
+            <task-id>2</task-id>
+            <task-unit>h</task-unit>
+            <task-constraint>
+              <snet>20-09-2021, 10:00:00</snet>
+            </task-constraint>
+            <task-start-date>20-09-2021, 10:00:00</task-start-date>
+            <task-end-date>20-09-2021, 15:00:00</task-end-date>
+            <task-completion-date>20-09-2021, 15:00:00</task-completion-date>
+            <task-duration>14400000</task-duration>
+            <task-percent-complete>100.0</task-percent-complete>
+            <task-work-percent-complete>100.0</task-work-percent-complete>
+            <task-work-duration>28800000</task-work-duration>
+          </task>
+          <task>
+            <task-name>Create initial Specification document</task-name>
+            <task-id>3</task-id>
+            <task-unit>h</task-unit>
+            <task-start-date>20-09-2021, 15:00:00</task-start-date>
+            <task-end-date>20-09-2021, 17:00:00</task-end-date>
+            <task-completion-date>20-09-2021, 17:00:00</task-completion-date>
+            <task-duration>7200000</task-duration>
+            <task-percent-complete>100.0</task-percent-complete>
+            <task-work-percent-complete>100.0</task-work-percent-complete>
+            <task-work-duration>14400000</task-work-duration>
+          </task>
+        </task-list>
+      </task>
+      <task>
+        <task-name>Design</task-name>
+        <task-id>4</task-id>
+        <expanded-gantt>true</expanded-gantt>
+        <task-start-date>21-09-2021, 08:00:00</task-start-date>
+        <task-end-date>22-09-2021, 10:00:00</task-end-date>
+        <task-completion-date>21-09-2021, 08:00:00</task-completion-date>
+        <task-duration>36000000</task-duration>
+        <task-list>
+          <task>
+            <task-name>Analyse specification and create design document</task-name>
+            <task-id>5</task-id>
+            <task-start-date>21-09-2021, 08:00:00</task-start-date>
+            <task-end-date>21-09-2021, 17:00:00</task-end-date>
+            <task-completion-date>21-09-2021, 08:00:00</task-completion-date>
+            <task-duration>28800000</task-duration>
+            <task-work-duration>144000000</task-work-duration>
+          </task>
+          <task>
+            <task-name>Create the basic GUI design and colour schemes</task-name>
+            <task-id>6</task-id>
+            <task-start-date>21-09-2021, 17:00:00</task-start-date>
+            <task-end-date>21-09-2021, 17:00:00</task-end-date>
+            <task-completion-date>21-09-2021, 17:00:00</task-completion-date>
+            <task-duration>0</task-duration>
+          </task>
+          <task>
+            <task-name>Meet with client</task-name>
+            <task-id>7</task-id>
+            <task-unit>h</task-unit>
+            <task-constraint>
+              <snet>22-09-2021, 09:00:00</snet>
+            </task-constraint>
+            <task-start-date>22-09-2021, 09:00:00</task-start-date>
+            <task-end-date>22-09-2021, 10:00:00</task-end-date>
+            <task-completion-date>22-09-2021, 09:00:00</task-completion-date>
+            <task-duration>3600000</task-duration>
+            <task-work-duration>14400000</task-work-duration>
+          </task>
+        </task-list>
+      </task>
+      <task>
+        <task-name>Implementation</task-name>
+        <task-id>8</task-id>
+        <expanded-gantt>true</expanded-gantt>
+        <task-start-date>22-09-2021, 10:00:00</task-start-date>
+        <task-end-date>01-10-2021, 10:00:00</task-end-date>
+        <task-completion-date>22-09-2021, 10:00:00</task-completion-date>
+        <task-duration>201600000</task-duration>
+        <task-list>
+          <task>
+            <task-name>Meet with development team</task-name>
+            <task-id>9</task-id>
+            <task-unit>h</task-unit>
+            <task-start-date>22-09-2021, 10:00:00</task-start-date>
+            <task-end-date>22-09-2021, 12:00:00</task-end-date>
+            <task-completion-date>22-09-2021, 10:00:00</task-completion-date>
+            <task-duration>7200000</task-duration>
+            <task-work-duration>43200000</task-work-duration>
+          </task>
+          <task>
+            <task-name>Coding with Unit Testing</task-name>
+            <task-id>10</task-id>
+            <task-unit>w</task-unit>
+            <task-start-date>22-09-2021, 13:00:00</task-start-date>
+            <task-end-date>29-09-2021, 17:00:00</task-end-date>
+            <task-completion-date>22-09-2021, 13:00:00</task-completion-date>
+            <task-duration>158400000</task-duration>
+            <task-work-duration>792000000</task-work-duration>
+          </task>
+          <task>
+            <task-name>Integration Testing</task-name>
+            <task-id>11</task-id>
+            <task-start-date>30-09-2021, 08:00:00</task-start-date>
+            <task-end-date>30-09-2021, 17:00:00</task-end-date>
+            <task-completion-date>30-09-2021, 08:00:00</task-completion-date>
+            <task-duration>28800000</task-duration>
+            <task-work-duration>86400000</task-work-duration>
+          </task>
+          <task>
+            <task-name>Create all functions and user interactions</task-name>
+            <task-id>12</task-id>
+            <task-start-date>30-09-2021, 17:00:00</task-start-date>
+            <task-end-date>30-09-2021, 17:00:00</task-end-date>
+            <task-completion-date>30-09-2021, 17:00:00</task-completion-date>
+            <task-duration>0</task-duration>
+          </task>
+          <task>
+            <task-name>Meet with client</task-name>
+            <task-id>13</task-id>
+            <task-unit>h</task-unit>
+            <task-start-date>01-10-2021, 08:00:00</task-start-date>
+            <task-end-date>01-10-2021, 10:00:00</task-end-date>
+            <task-completion-date>01-10-2021, 08:00:00</task-completion-date>
+            <task-duration>7200000</task-duration>
+            <task-work-duration>36000000</task-work-duration>
+          </task>
+        </task-list>
+      </task>
+      <task>
+        <task-name>Documentation</task-name>
+        <task-id>14</task-id>
+        <expanded-gantt>true</expanded-gantt>
+        <task-start-date>22-09-2021, 10:00:00</task-start-date>
+        <task-end-date>04-10-2021, 11:00:00</task-end-date>
+        <task-completion-date>22-09-2021, 10:00:00</task-completion-date>
+        <task-duration>234000000</task-duration>
+        <task-list>
+          <task>
+            <task-name>Initial layout</task-name>
+            <task-id>15</task-id>
+            <task-unit>h</task-unit>
+            <task-start-date>22-09-2021, 10:00:00</task-start-date>
+            <task-end-date>22-09-2021, 12:00:00</task-end-date>
+            <task-completion-date>22-09-2021, 10:00:00</task-completion-date>
+            <task-duration>7200000</task-duration>
+            <task-work-duration>14400000</task-work-duration>
+          </task>
+          <task>
+            <task-name>Basic functions</task-name>
+            <task-id>16</task-id>
+            <task-unit>h</task-unit>
+            <task-start-date>01-10-2021, 08:00:00</task-start-date>
+            <task-end-date>01-10-2021, 15:00:00</task-end-date>
+            <task-completion-date>01-10-2021, 08:00:00</task-completion-date>
+            <task-duration>21600000</task-duration>
+            <task-work-duration>64800000</task-work-duration>
+          </task>
+          <task>
+            <task-name>API documentation</task-name>
+            <task-id>17</task-id>
+            <task-unit>h</task-unit>
+            <task-start-date>01-10-2021, 15:00:00</task-start-date>
+            <task-end-date>01-10-2021, 17:00:00</task-end-date>
+            <task-completion-date>01-10-2021, 15:00:00</task-completion-date>
+            <task-duration>7200000</task-duration>
+            <task-work-duration>21600000</task-work-duration>
+          </task>
+          <task>
+            <task-name>Create API documentation</task-name>
+            <task-id>18</task-id>
+            <task-start-date>01-10-2021, 17:00:00</task-start-date>
+            <task-end-date>01-10-2021, 17:00:00</task-end-date>
+            <task-completion-date>01-10-2021, 17:00:00</task-completion-date>
+            <task-duration>0</task-duration>
+          </task>
+          <task>
+            <task-name>Meet with client</task-name>
+            <task-id>19</task-id>
+            <task-unit>h</task-unit>
+            <task-start-date>04-10-2021, 08:00:00</task-start-date>
+            <task-end-date>04-10-2021, 09:00:00</task-end-date>
+            <task-completion-date>04-10-2021, 08:00:00</task-completion-date>
+            <task-duration>3600000</task-duration>
+            <task-work-duration>25200000</task-work-duration>
+          </task>
+          <task>
+            <task-name>Finalize document</task-name>
+            <task-id>20</task-id>
+            <task-unit>h</task-unit>
+            <task-start-date>04-10-2021, 09:00:00</task-start-date>
+            <task-end-date>04-10-2021, 11:00:00</task-end-date>
+            <task-completion-date>04-10-2021, 09:00:00</task-completion-date>
+            <task-duration>7200000</task-duration>
+            <task-work-duration>21600000</task-work-duration>
+          </task>
+        </task-list>
+      </task>
+      <task>
+        <task-name>Verification and Deployment</task-name>
+        <task-id>21</task-id>
+        <expanded-gantt>true</expanded-gantt>
+        <task-start-date>04-10-2021, 11:00:00</task-start-date>
+        <task-end-date>04-10-2021, 15:00:00</task-end-date>
+        <task-completion-date>04-10-2021, 11:00:00</task-completion-date>
+        <task-duration>10800000</task-duration>
+        <task-list>
+          <task>
+            <task-name>Demonstrate program to client</task-name>
+            <task-id>22</task-id>
+            <task-unit>h</task-unit>
+            <task-start-date>04-10-2021, 11:00:00</task-start-date>
+            <task-end-date>04-10-2021, 12:00:00</task-end-date>
+            <task-completion-date>04-10-2021, 11:00:00</task-completion-date>
+            <task-duration>3600000</task-duration>
+            <task-work-duration>10800000</task-work-duration>
+          </task>
+          <task>
+            <task-name>Deploy to client site</task-name>
+            <task-id>23</task-id>
+            <task-unit>h</task-unit>
+            <task-start-date>04-10-2021, 13:00:00</task-start-date>
+            <task-end-date>04-10-2021, 15:00:00</task-end-date>
+            <task-completion-date>04-10-2021, 13:00:00</task-completion-date>
+            <task-duration>7200000</task-duration>
+            <task-work-duration>21600000</task-work-duration>
+          </task>
+        </task-list>
+      </task>
+    </task-list>
+  </task>
+  <task-dependency-list>
+    <task-dependency>
+      <task-predecessor-id>2</task-predecessor-id>
+      <task-successor-id>3</task-successor-id>
+    </task-dependency>
+    <task-dependency>
+      <task-predecessor-id>1</task-predecessor-id>
+      <task-successor-id>4</task-successor-id>
+    </task-dependency>
+    <task-dependency>
+      <task-predecessor-id>5</task-predecessor-id>
+      <task-successor-id>6</task-successor-id>
+    </task-dependency>
+    <task-dependency>
+      <task-predecessor-id>6</task-predecessor-id>
+      <task-successor-id>7</task-successor-id>
+    </task-dependency>
+    <task-dependency>
+      <task-predecessor-id>4</task-predecessor-id>
+      <task-successor-id>8</task-successor-id>
+    </task-dependency>
+    <task-dependency>
+      <task-predecessor-id>9</task-predecessor-id>
+      <task-successor-id>10</task-successor-id>
+    </task-dependency>
+    <task-dependency>
+      <task-predecessor-id>10</task-predecessor-id>
+      <task-successor-id>11</task-successor-id>
+    </task-dependency>
+    <task-dependency>
+      <task-predecessor-id>11</task-predecessor-id>
+      <task-successor-id>12</task-successor-id>
+    </task-dependency>
+    <task-dependency>
+      <task-predecessor-id>12</task-predecessor-id>
+      <task-successor-id>13</task-successor-id>
+    </task-dependency>
+    <task-dependency>
+      <task-predecessor-id>4</task-predecessor-id>
+      <task-successor-id>14</task-successor-id>
+    </task-dependency>
+    <task-dependency>
+      <task-predecessor-id>11</task-predecessor-id>
+      <task-successor-id>16</task-successor-id>
+    </task-dependency>
+    <task-dependency>
+      <task-predecessor-id>15</task-predecessor-id>
+      <task-successor-id>16</task-successor-id>
+    </task-dependency>
+    <task-dependency>
+      <task-predecessor-id>16</task-predecessor-id>
+      <task-successor-id>17</task-successor-id>
+    </task-dependency>
+    <task-dependency>
+      <task-predecessor-id>17</task-predecessor-id>
+      <task-successor-id>18</task-successor-id>
+    </task-dependency>
+    <task-dependency>
+      <task-predecessor-id>18</task-predecessor-id>
+      <task-successor-id>19</task-successor-id>
+    </task-dependency>
+    <task-dependency>
+      <task-predecessor-id>19</task-predecessor-id>
+      <task-successor-id>20</task-successor-id>
+    </task-dependency>
+    <task-dependency>
+      <task-predecessor-id>14</task-predecessor-id>
+      <task-successor-id>21</task-successor-id>
+    </task-dependency>
+    <task-dependency>
+      <task-predecessor-id>22</task-predecessor-id>
+      <task-successor-id>23</task-successor-id>
+    </task-dependency>
+  </task-dependency-list>
+  <conflict-list/>
+  <assignment-list>
+    <assignment>
+      <assignment-task-id>2</assignment-task-id>
+      <assignment-resource-id>1</assignment-resource-id>
+    </assignment>
+    <assignment>
+      <assignment-task-id>2</assignment-task-id>
+      <assignment-resource-id>2</assignment-resource-id>
+    </assignment>
+    <assignment>
+      <assignment-task-id>3</assignment-task-id>
+      <assignment-resource-id>2</assignment-resource-id>
+    </assignment>
+    <assignment>
+      <assignment-task-id>3</assignment-task-id>
+      <assignment-resource-id>6</assignment-resource-id>
+    </assignment>
+    <assignment>
+      <assignment-task-id>5</assignment-task-id>
+      <assignment-resource-id>2</assignment-resource-id>
+    </assignment>
+    <assignment>
+      <assignment-task-id>5</assignment-task-id>
+      <assignment-resource-id>3</assignment-resource-id>
+    </assignment>
+    <assignment>
+      <assignment-task-id>5</assignment-task-id>
+      <assignment-resource-id>6</assignment-resource-id>
+    </assignment>
+    <assignment>
+      <assignment-task-id>5</assignment-task-id>
+      <assignment-resource-id>7</assignment-resource-id>
+    </assignment>
+    <assignment>
+      <assignment-task-id>5</assignment-task-id>
+      <assignment-resource-id>10</assignment-resource-id>
+    </assignment>
+    <assignment>
+      <assignment-task-id>7</assignment-task-id>
+      <assignment-resource-id>1</assignment-resource-id>
+    </assignment>
+    <assignment>
+      <assignment-task-id>7</assignment-task-id>
+      <assignment-resource-id>2</assignment-resource-id>
+    </assignment>
+    <assignment>
+      <assignment-task-id>7</assignment-task-id>
+      <assignment-resource-id>3</assignment-resource-id>
+    </assignment>
+    <assignment>
+      <assignment-task-id>7</assignment-task-id>
+      <assignment-resource-id>6</assignment-resource-id>
+    </assignment>
+    <assignment>
+      <assignment-task-id>9</assignment-task-id>
+      <assignment-resource-id>2</assignment-resource-id>
+    </assignment>
+    <assignment>
+      <assignment-task-id>9</assignment-task-id>
+      <assignment-resource-id>3</assignment-resource-id>
+    </assignment>
+    <assignment>
+      <assignment-task-id>9</assignment-task-id>
+      <assignment-resource-id>4</assignment-resource-id>
+    </assignment>
+    <assignment>
+      <assignment-task-id>9</assignment-task-id>
+      <assignment-resource-id>5</assignment-resource-id>
+    </assignment>
+    <assignment>
+      <assignment-task-id>9</assignment-task-id>
+      <assignment-resource-id>6</assignment-resource-id>
+    </assignment>
+    <assignment>
+      <assignment-task-id>9</assignment-task-id>
+      <assignment-resource-id>10</assignment-resource-id>
+    </assignment>
+    <assignment>
+      <assignment-task-id>10</assignment-task-id>
+      <assignment-resource-id>3</assignment-resource-id>
+    </assignment>
+    <assignment>
+      <assignment-task-id>10</assignment-task-id>
+      <assignment-resource-id>4</assignment-resource-id>
+    </assignment>
+    <assignment>
+      <assignment-task-id>10</assignment-task-id>
+      <assignment-resource-id>7</assignment-resource-id>
+    </assignment>
+    <assignment>
+      <assignment-task-id>10</assignment-task-id>
+      <assignment-resource-id>8</assignment-resource-id>
+    </assignment>
+    <assignment>
+      <assignment-task-id>10</assignment-task-id>
+      <assignment-resource-id>10</assignment-resource-id>
+    </assignment>
+    <assignment>
+      <assignment-task-id>11</assignment-task-id>
+      <assignment-resource-id>2</assignment-resource-id>
+    </assignment>
+    <assignment>
+      <assignment-task-id>11</assignment-task-id>
+      <assignment-resource-id>3</assignment-resource-id>
+    </assignment>
+    <assignment>
+      <assignment-task-id>11</assignment-task-id>
+      <assignment-resource-id>6</assignment-resource-id>
+    </assignment>
+    <assignment>
+      <assignment-task-id>13</assignment-task-id>
+      <assignment-resource-id>1</assignment-resource-id>
+    </assignment>
+    <assignment>
+      <assignment-task-id>13</assignment-task-id>
+      <assignment-resource-id>2</assignment-resource-id>
+    </assignment>
+    <assignment>
+      <assignment-task-id>13</assignment-task-id>
+      <assignment-resource-id>3</assignment-resource-id>
+    </assignment>
+    <assignment>
+      <assignment-task-id>13</assignment-task-id>
+      <assignment-resource-id>4</assignment-resource-id>
+    </assignment>
+    <assignment>
+      <assignment-task-id>13</assignment-task-id>
+      <assignment-resource-id>6</assignment-resource-id>
+    </assignment>
+    <assignment>
+      <assignment-task-id>15</assignment-task-id>
+      <assignment-resource-id>5</assignment-resource-id>
+    </assignment>
+    <assignment>
+      <assignment-task-id>15</assignment-task-id>
+      <assignment-resource-id>6</assignment-resource-id>
+    </assignment>
+    <assignment>
+      <assignment-task-id>16</assignment-task-id>
+      <assignment-resource-id>5</assignment-resource-id>
+    </assignment>
+    <assignment>
+      <assignment-task-id>16</assignment-task-id>
+      <assignment-resource-id>8</assignment-resource-id>
+    </assignment>
+    <assignment>
+      <assignment-task-id>16</assignment-task-id>
+      <assignment-resource-id>10</assignment-resource-id>
+    </assignment>
+    <assignment>
+      <assignment-task-id>17</assignment-task-id>
+      <assignment-resource-id>5</assignment-resource-id>
+    </assignment>
+    <assignment>
+      <assignment-task-id>17</assignment-task-id>
+      <assignment-resource-id>8</assignment-resource-id>
+    </assignment>
+    <assignment>
+      <assignment-task-id>17</assignment-task-id>
+      <assignment-resource-id>10</assignment-resource-id>
+    </assignment>
+    <assignment>
+      <assignment-task-id>19</assignment-task-id>
+      <assignment-resource-id>1</assignment-resource-id>
+    </assignment>
+    <assignment>
+      <assignment-task-id>19</assignment-task-id>
+      <assignment-resource-id>2</assignment-resource-id>
+    </assignment>
+    <assignment>
+      <assignment-task-id>19</assignment-task-id>
+      <assignment-resource-id>3</assignment-resource-id>
+    </assignment>
+    <assignment>
+      <assignment-task-id>19</assignment-task-id>
+      <assignment-resource-id>4</assignment-resource-id>
+    </assignment>
+    <assignment>
+      <assignment-task-id>19</assignment-task-id>
+      <assignment-resource-id>5</assignment-resource-id>
+    </assignment>
+    <assignment>
+      <assignment-task-id>19</assignment-task-id>
+      <assignment-resource-id>6</assignment-resource-id>
+    </assignment>
+    <assignment>
+      <assignment-task-id>19</assignment-task-id>
+      <assignment-resource-id>10</assignment-resource-id>
+    </assignment>
+    <assignment>
+      <assignment-task-id>20</assignment-task-id>
+      <assignment-resource-id>5</assignment-resource-id>
+    </assignment>
+    <assignment>
+      <assignment-task-id>20</assignment-task-id>
+      <assignment-resource-id>8</assignment-resource-id>
+    </assignment>
+    <assignment>
+      <assignment-task-id>20</assignment-task-id>
+      <assignment-resource-id>10</assignment-resource-id>
+    </assignment>
+    <assignment>
+      <assignment-task-id>22</assignment-task-id>
+      <assignment-resource-id>1</assignment-resource-id>
+    </assignment>
+    <assignment>
+      <assignment-task-id>22</assignment-task-id>
+      <assignment-resource-id>2</assignment-resource-id>
+    </assignment>
+    <assignment>
+      <assignment-task-id>22</assignment-task-id>
+      <assignment-resource-id>9</assignment-resource-id>
+    </assignment>
+    <assignment>
+      <assignment-task-id>23</assignment-task-id>
+      <assignment-resource-id>1</assignment-resource-id>
+    </assignment>
+    <assignment>
+      <assignment-task-id>23</assignment-task-id>
+      <assignment-resource-id>2</assignment-resource-id>
+    </assignment>
+    <assignment>
+      <assignment-task-id>23</assignment-task-id>
+      <assignment-resource-id>9</assignment-resource-id>
+    </assignment>
+  </assignment-list>
+</company>
